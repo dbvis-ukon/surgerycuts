@@ -1,0 +1,141 @@
+.modal-open {
+    padding-right: 0px !important;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:6px !important;
+    padding-bottom:0 !important;
+    height: 30px;
+}
+.navbar {min-height:30px !important;}
+
+.nav-tabs > li > a
+{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.btn.btn-primary{
+    background-color: black;
+    border-color: black;
+    margin-bottom: 2%;
+}
+
+.btn.btn-primary.active{
+    background-color: #1B688D;
+    border-color: black;
+}
+
+.btn.btn-primary:hover {
+    border-color: #1B688D;
+}
+
+.btn.btn-primary.active:hover {
+    background-color: #1B688D;
+}
+
+.btn.btn-primary:focus {
+    border-color: white;
+}
+
+.fade-scale {
+    transform: scale(0);
+    opacity: 0;
+    -webkit-transition: all .25s linear;
+    -o-transition: all .25s linear;
+    transition: all .25s linear;
+}
+
+.fade-scale.in {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.input-xs {
+    height: 22px;
+    padding: 2px 5px;
+    font-size: 12px;
+    line-height: 1.5; /* If Placeholder of the input is moved up, rem/modify this. */
+    border-radius: 3px;
+}
+
+tr.selected{
+    background-color: rgba(11, 41, 55, 1.0) !important;
+}
+
+body {
+    background: #2B353E;
+    margin: 0;
+    padding: 0;
+}
+
+.panel-heading {
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+.ui-dialog-content {
+    padding:20px;
+    padding-top:5px;
+}
+.ui-dialog-title {
+    padding-left:20px;
+}
+.ui-dialog-titlebar-close{
+    float:right;
+    width:10px;
+    height:20px;
+}
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:6px !important;
+    padding-bottom:0 !important;
+    height: 35px;
+    cursor:pointer;
+}
+.navbar {min-height:35px !important;}
+
+.nav-tabs > li > a
+{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.btn.btn-primary{
+    background-color: black;
+    border-color: black;
+    margin-bottom: 2%;
+}
+
+.btn.btn-primary.active{
+    background-color: #1B688D;
+    border-color: black;
+}
+
+.btn.btn-primary:hover {
+    border-color: white;
+}
+
+.btn.btn-primary.active:hover {
+    background-color: #1B688D;
+}
+
+.btn.btn-primary:focus {
+    border-color: white;
+}
+
+button:hover{
+    color:deepskyblue !important;
+}
+a:hover{
+    color:white;
+}
+table.dataTable thead th, table.dataTable thead td{
+    padding:0px;
+}
+table.dataTable tbody th, table.dataTable tbody td{
+    padding:0px;
+}
+
+
+td {
+    color:black;
+}

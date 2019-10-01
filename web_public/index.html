@@ -1,0 +1,67 @@
+<!--
+* Publication:
+* SurgeryCuts: Embedding Additional Information in Maps without Occluding Features. Computer Graphics Forum. 38. 10.1111/cgf.13685.
+* Angelini, Marco & Buchmüller, Juri & Keim, Daniel & Meschenmoser, Philipp & Santucci, Giuseppe. (2019).
+*
+* Programmer: Meschenmoser, Philipp
+-->
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cyborg/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="//cdn.datatables.net/select/1.2.4/css/select.dataTables.min.css">
+    <link rel="stylesheet" href="css/custombootstrap.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <script data-main="js/init.js" type="text/javascript" src="js/libs/external/require.js"></script>
+</head>
+<body>
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header" style="padding-left:100px">
+            <a href="index.html" class="navbar-brand">SurgeryCut</a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+            <ul class="nav navbar-nav navbar-left">
+                <li style="cursor:pointer" id="about"><a href="index.html"><b>About</b></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="settings">
+    <div style="width:180px; overflow:auto;position:absolute;left:2px;padding-top:10px">
+        <table id="overview" cellspacing="0" width="200px" style="text-align:center;float:left">
+            <thead>
+            <tr>
+                <th align="center">i</th>
+                <th align="center">ts</th>
+                <th></th>
+            </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div>
+    <div id="bg_wrapper"><img id="bg"/></div>
+    <div id="canvas"></div>
+</div>
+</body>
+</html>

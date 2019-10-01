@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2017-04-11T17:54:02Z"/>
+
+  <bounds minlat="47.7366800" minlon="9.0756200" maxlat="47.7379300" maxlon="9.0792700"/>
+
+  <node id="36664329" lat="47.7361883" lon="9.0791574" version="6" timestamp="2014-04-02T08:47:23Z" changeset="21453179" uid="108090" user="wunderhorn"/>
+  <node id="264958940" lat="47.7365420" lon="9.0789741" version="4" timestamp="2009-08-31T19:22:24Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="264958941" lat="47.7371601" lon="9.0779425" version="4" timestamp="2009-08-31T19:22:24Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="264958942" lat="47.7374245" lon="9.0773017" version="3" timestamp="2009-08-31T19:22:24Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="264958944" lat="47.7379299" lon="9.0766895" version="3" timestamp="2009-08-31T19:22:24Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="264958945" lat="47.7382313" lon="9.0765798" version="3" timestamp="2009-08-31T19:22:23Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="264958947" lat="47.7391504" lon="9.0766660" version="2" timestamp="2009-07-17T12:32:00Z" changeset="1853362" uid="85761" user="klausis"/>
+  <node id="264958948" lat="47.7405663" lon="9.0765401" version="4" timestamp="2011-02-05T18:46:17Z" changeset="7195919" uid="166100" user="AletGPS"/>
+  <node id="264958949" lat="47.7415208" lon="9.0762763" version="5" timestamp="2013-06-24T21:22:53Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="264958951" lat="47.7417560" lon="9.0763267" version="6" timestamp="2013-06-24T21:22:53Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="264958957" lat="47.7423174" lon="9.0770670" version="5" timestamp="2013-06-24T21:22:53Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="264958960" lat="47.7423997" lon="9.0774536" version="5" timestamp="2013-06-24T21:22:53Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="279604301" lat="47.7424159" lon="9.0779066" version="5" timestamp="2013-06-24T21:22:53Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="317396714" lat="47.7399946" lon="9.0767192" version="3" timestamp="2013-06-24T21:22:53Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="317396718" lat="47.7419994" lon="9.0764968" version="4" timestamp="2013-06-24T21:22:53Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="479254278" lat="47.7421981" lon="9.0767889" version="3" timestamp="2013-06-24T21:22:54Z" changeset="16691205" uid="135562" user="Seetroll"/>
+  <node id="479254281" lat="47.7412211" lon="9.0762980" version="2" timestamp="2011-02-05T18:46:25Z" changeset="7195919" uid="166100" user="AletGPS"/>
+  <node id="479254286" lat="47.7397047" lon="9.0767125" version="1" timestamp="2009-08-31T19:21:59Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="479254287" lat="47.7385964" lon="9.0765817" version="1" timestamp="2009-08-31T19:21:59Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="479254289" lat="47.7376575" lon="9.0769185" version="1" timestamp="2009-08-31T19:21:59Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="479254291" lat="47.7369758" lon="9.0784095" version="1" timestamp="2009-08-31T19:22:00Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="479254292" lat="47.7367999" lon="9.0787201" version="1" timestamp="2009-08-31T19:22:00Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="479254294" lat="47.7364062" lon="9.0790733" version="1" timestamp="2009-08-31T19:22:00Z" changeset="2329556" uid="128720" user="EinKonstanzer"/>
+  <node id="765986599" lat="47.7383814" lon="9.0765806" version="1" timestamp="2010-06-06T19:34:00Z" changeset="4921630" uid="135562" user="Seetroll"/>
+  <way id="33475365" version="16" timestamp="2014-07-22T06:57:32Z" changeset="24286739" uid="108090" user="wunderhorn">
+    <nd ref="36664329"/>
+    <nd ref="479254294"/>
+    <nd ref="264958940"/>
+    <nd ref="479254292"/>
+    <nd ref="479254291"/>
+    <nd ref="264958941"/>
+    <nd ref="264958942"/>
+    <nd ref="479254289"/>
+    <nd ref="264958944"/>
+    <nd ref="264958945"/>
+    <nd ref="765986599"/>
+    <nd ref="479254287"/>
+    <nd ref="264958947"/>
+    <nd ref="479254286"/>
+    <nd ref="317396714"/>
+    <nd ref="264958948"/>
+    <nd ref="479254281"/>
+    <nd ref="264958949"/>
+    <nd ref="264958951"/>
+    <nd ref="317396718"/>
+    <nd ref="479254278"/>
+    <nd ref="264958957"/>
+    <nd ref="264958960"/>
+    <nd ref="279604301"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Freudentaler Straße"/>
+    <tag k="ref" v="K 6171"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="DE:rural"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <relation id="1152343" version="6" timestamp="2016-04-04T20:13:08Z" changeset="38300923" uid="2816649" user="ÖV856">
+    <member type="way" ref="407777744" role=""/>
+    <member type="way" ref="79690995" role=""/>
+    <member type="way" ref="79691022" role=""/>
+    <member type="way" ref="259704808" role=""/>
+    <member type="way" ref="371191622" role=""/>
+    <member type="way" ref="259704809" role=""/>
+    <member type="way" ref="33475365" role=""/>
+    <member type="way" ref="293814096" role=""/>
+    <member type="way" ref="5215352" role=""/>
+    <member type="way" ref="24184323" role=""/>
+    <member type="way" ref="293814093" role=""/>
+    <member type="way" ref="293814095" role=""/>
+    <member type="way" ref="293814094" role=""/>
+    <tag k="name" v="K 6171"/>
+    <tag k="type" v="street"/>
+  </relation>
+  <relation id="1152344" version="6" timestamp="2016-04-04T20:13:08Z" changeset="38300923" uid="2816649" user="ÖV856">
+    <member type="way" ref="293814094" role=""/>
+    <member type="way" ref="293814095" role=""/>
+    <member type="way" ref="293814093" role=""/>
+    <member type="way" ref="24184323" role=""/>
+    <member type="way" ref="5215352" role=""/>
+    <member type="way" ref="293814096" role=""/>
+    <member type="way" ref="33475365" role=""/>
+    <member type="way" ref="259704809" role=""/>
+    <member type="way" ref="371191622" role=""/>
+    <member type="way" ref="259704808" role=""/>
+    <member type="way" ref="79691022" role=""/>
+    <member type="way" ref="79690995" role=""/>
+    <member type="way" ref="407777744" role=""/>
+    <tag k="name" v="K 6171"/>
+    <tag k="type" v="street"/>
+  </relation>
+  <relation id="1170127" version="6" timestamp="2016-04-04T20:12:59Z" changeset="38300923" uid="2816649" user="ÖV856">
+    <member type="way" ref="293814094" role="backward"/>
+    <member type="way" ref="293814095" role="backward"/>
+    <member type="way" ref="293814093" role="backward"/>
+    <member type="way" ref="24184323" role="backward"/>
+    <member type="way" ref="5215352" role=""/>
+    <member type="way" ref="293814096" role=""/>
+    <member type="way" ref="33475365" role=""/>
+    <member type="way" ref="259704809" role=""/>
+    <member type="way" ref="371191622" role=""/>
+    <member type="way" ref="259704808" role=""/>
+    <member type="way" ref="79691022" role=""/>
+    <member type="way" ref="79690995" role=""/>
+    <member type="way" ref="407777744" role=""/>
+    <tag k="operator" v="Baden-Württemberg,Deutschland,Europa"/>
+    <tag k="ref" v="K 6171"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="6105379" version="10" timestamp="2017-02-27T11:51:31Z" changeset="46440361" uid="2816649" user="ÖV856">
+    <member type="node" ref="4097956498" role="stop"/>
+    <member type="node" ref="59177334" role="platform"/>
+    <member type="node" ref="4097956499" role="stop"/>
+    <member type="node" ref="1143784988" role="platform"/>
+    <member type="node" ref="520295599" role="stop"/>
+    <member type="node" ref="1143784984" role="platform"/>
+    <member type="node" ref="4097956500" role="stop"/>
+    <member type="node" ref="664482204" role="platform"/>
+    <member type="node" ref="4097956502" role="stop"/>
+    <member type="node" ref="510497614" role="platform"/>
+    <member type="node" ref="4097956505" role="stop"/>
+    <member type="node" ref="529003821" role="platform"/>
+    <member type="node" ref="4429010974" role="stop"/>
+    <member type="node" ref="1049245083" role="platform"/>
+    <member type="node" ref="4097956504" role="stop"/>
+    <member type="node" ref="664482208" role="platform"/>
+    <member type="node" ref="4097956507" role="stop"/>
+    <member type="node" ref="519093594" role="platform"/>
+    <member type="node" ref="4097956508" role="stop"/>
+    <member type="node" ref="823117150" role="platform"/>
+    <member type="node" ref="4097956509" role="stop"/>
+    <member type="node" ref="4128885730" role="platform"/>
+    <member type="node" ref="4097956511" role="stop"/>
+    <member type="node" ref="1011242122" role="platform"/>
+    <member type="node" ref="4097956510" role="stop"/>
+    <member type="node" ref="1011217697" role="platform"/>
+    <member type="way" ref="407761212" role=""/>
+    <member type="way" ref="76618312" role=""/>
+    <member type="way" ref="39330947" role=""/>
+    <member type="way" ref="39330949" role=""/>
+    <member type="way" ref="447221993" role=""/>
+    <member type="way" ref="447221994" role=""/>
+    <member type="way" ref="407777742" role=""/>
+    <member type="way" ref="407761207" role=""/>
+    <member type="way" ref="409314399" role=""/>
+    <member type="way" ref="39330948" role=""/>
+    <member type="way" ref="38654033" role=""/>
+    <member type="way" ref="178934235" role=""/>
+    <member type="way" ref="167702948" role=""/>
+    <member type="way" ref="199578065" role=""/>
+    <member type="way" ref="199578066" role=""/>
+    <member type="way" ref="93880301" role=""/>
+    <member type="way" ref="179082723" role=""/>
+    <member type="way" ref="167702949" role=""/>
+    <member type="way" ref="40681366" role=""/>
+    <member type="way" ref="40681367" role=""/>
+    <member type="way" ref="113193467" role=""/>
+    <member type="way" ref="93880302" role=""/>
+    <member type="way" ref="179082724" role=""/>
+    <member type="way" ref="43111173" role=""/>
+    <member type="way" ref="179082726" role=""/>
+    <member type="way" ref="132247258" role=""/>
+    <member type="way" ref="43113768" role=""/>
+    <member type="way" ref="28057198" role=""/>
+    <member type="way" ref="5215748" role=""/>
+    <member type="way" ref="32343458" role=""/>
+    <member type="way" ref="24657835" role=""/>
+    <member type="way" ref="407761210" role=""/>
+    <member type="way" ref="40491586" role=""/>
+    <member type="way" ref="452035122" role=""/>
+    <member type="way" ref="403546445" role=""/>
+    <member type="way" ref="293814094" role=""/>
+    <member type="way" ref="293814095" role=""/>
+    <member type="way" ref="293814093" role=""/>
+    <member type="way" ref="24184323" role=""/>
+    <member type="way" ref="5215352" role=""/>
+    <member type="way" ref="293814096" role=""/>
+    <member type="way" ref="33475365" role=""/>
+    <member type="way" ref="259704809" role=""/>
+    <member type="way" ref="371191622" role=""/>
+    <member type="way" ref="259704808" role=""/>
+    <member type="way" ref="79691022" role=""/>
+    <member type="way" ref="79690995" role=""/>
+    <member type="way" ref="407777744" role=""/>
+    <member type="way" ref="5944411" role=""/>
+    <member type="way" ref="42156472" role=""/>
+    <member type="way" ref="42156473" role=""/>
+    <member type="way" ref="33468659" role=""/>
+    <member type="way" ref="42156476" role=""/>
+    <member type="way" ref="407761209" role=""/>
+    <tag k="colour" v="#CD853F"/>
+    <tag k="from" v="Hegne Kloster"/>
+    <tag k="network" v="VHB Verkehrsverbund Hegau Bodensee"/>
+    <tag k="operator" v="Südbadenbus GmbH"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="7370"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Langenrain Dorfplatz"/>
+    <tag k="type" v="route"/>
+    <tag k="via" v="Allensbach Bahnhof"/>
+  </relation>
+  <relation id="6105512" version="10" timestamp="2017-04-06T20:08:33Z" changeset="47519396" uid="35560" user="Peilscheibe">
+    <member type="node" ref="4097956510" role="stop"/>
+    <member type="node" ref="1011217697" role="platform"/>
+    <member type="node" ref="1137995873" role="stop"/>
+    <member type="node" ref="4128885729" role="platform"/>
+    <member type="node" ref="4098088875" role="stop"/>
+    <member type="node" ref="823117189" role="platform"/>
+    <member type="node" ref="4098088874" role="stop"/>
+    <member type="node" ref="911138415" role="platform"/>
+    <member type="node" ref="4098088872" role="stop"/>
+    <member type="node" ref="664482207" role="platform"/>
+    <member type="node" ref="4097956501" role="stop"/>
+    <member type="node" ref="520295603" role="platform"/>
+    <member type="node" ref="4097956503" role="stop"/>
+    <member type="node" ref="1049245121" role="platform"/>
+    <member type="node" ref="4098088873" role="stop"/>
+    <member type="node" ref="529003831" role="platform"/>
+    <member type="node" ref="4098088871" role="stop"/>
+    <member type="node" ref="503608390" role="platform"/>
+    <member type="node" ref="664482205" role="stop"/>
+    <member type="node" ref="664482150" role="platform"/>
+    <member type="node" ref="4429010973" role="stop"/>
+    <member type="node" ref="1143784986" role="platform"/>
+    <member type="node" ref="520295594" role="stop"/>
+    <member type="node" ref="1143784985" role="platform"/>
+    <member type="node" ref="4098088869" role="stop"/>
+    <member type="node" ref="59177336" role="platform"/>
+    <member type="way" ref="42156477" role=""/>
+    <member type="way" ref="377873216" role=""/>
+    <member type="way" ref="377873217" role=""/>
+    <member type="way" ref="79690995" role=""/>
+    <member type="way" ref="79691022" role=""/>
+    <member type="way" ref="259704808" role=""/>
+    <member type="way" ref="371191622" role=""/>
+    <member type="way" ref="259704809" role=""/>
+    <member type="way" ref="33475365" role=""/>
+    <member type="way" ref="293814096" role=""/>
+    <member type="way" ref="5215352" role=""/>
+    <member type="way" ref="24184323" role=""/>
+    <member type="way" ref="293814093" role=""/>
+    <member type="way" ref="293814095" role=""/>
+    <member type="way" ref="293814094" role=""/>
+    <member type="way" ref="403546445" role=""/>
+    <member type="way" ref="452035122" role=""/>
+    <member type="way" ref="40491586" role=""/>
+    <member type="way" ref="407761210" role=""/>
+    <member type="way" ref="24657835" role=""/>
+    <member type="way" ref="32343458" role=""/>
+    <member type="way" ref="5215748" role=""/>
+    <member type="way" ref="28057198" role=""/>
+    <member type="way" ref="43113768" role=""/>
+    <member type="way" ref="132247258" role=""/>
+    <member type="way" ref="179082726" role=""/>
+    <member type="way" ref="43111173" role=""/>
+    <member type="way" ref="179082724" role=""/>
+    <member type="way" ref="93880302" role=""/>
+    <member type="way" ref="113193467" role=""/>
+    <member type="way" ref="40681367" role=""/>
+    <member type="way" ref="40681366" role=""/>
+    <member type="way" ref="167702949" role=""/>
+    <member type="way" ref="179082723" role=""/>
+    <member type="way" ref="77417369" role=""/>
+    <member type="way" ref="93880297" role=""/>
+    <member type="way" ref="485210371" role=""/>
+    <member type="way" ref="38654034" role=""/>
+    <member type="way" ref="38654033" role=""/>
+    <member type="way" ref="39330948" role=""/>
+    <member type="way" ref="409314399" role=""/>
+    <member type="way" ref="407761207" role=""/>
+    <member type="way" ref="407777742" role=""/>
+    <member type="way" ref="76618315" role=""/>
+    <member type="way" ref="76618317" role=""/>
+    <tag k="colour" v="#CD853F"/>
+    <tag k="from" v="Langenrain Dorfplatz"/>
+    <tag k="network" v="VHB Verkehrsverbund Hegau Bodensee"/>
+    <tag k="operator" v="Südbadenbus GmbH"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="7370"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Hegne Kloster"/>
+    <tag k="type" v="route"/>
+    <tag k="via" v="Allensbach Bahnhof"/>
+  </relation>
+  <relation id="6148875" version="2" timestamp="2017-02-27T11:52:08Z" changeset="46440361" uid="2816649" user="ÖV856">
+    <member type="relation" ref="6105512" role=""/>
+    <member type="relation" ref="6105379" role=""/>
+    <tag k="name" v="Bus 7370"/>
+    <tag k="network" v="VHB Verkehrsverbund Hegau Bodensee"/>
+    <tag k="operator" v="SüdbadenBus GmbH"/>
+    <tag k="ref" v="7370"/>
+    <tag k="route_master" v="bus"/>
+    <tag k="type" v="route_master"/>
+  </relation>
+</osm>
